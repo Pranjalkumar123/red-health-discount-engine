@@ -1,0 +1,14 @@
+{
+  "allocations": [
+    {
+      "id": "A1",
+      "assignedDiscount": 6000,
+      "justification": "Top performer with strong all-round contribution."
+    },
+    {
+      "id": "A2",
+      "assignedDiscount": 4000,
+      "justification": "Consistent performance and target achievements."
+    }
+  ]
+}
